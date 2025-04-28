@@ -9,7 +9,7 @@ pip install Django
 ```
 - Fork & Clone the Repository
 ```bash
-git clone https://github.com/nchejarla/Lab5
+git clone https://github.com/nchejarla/Assignment5
 cd Lab5
 cd hello
 ```
